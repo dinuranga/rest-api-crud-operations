@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-crud-operations",
+  "version": "1.0.0",
+  "description": "A RESTapi with CRUD Operations using Node.js and Express.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maleesha Dinuranga, ITT/18/19/050, index-1007",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinuranga/rest-api-crud-operations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinuranga/rest-api-crud-operations/issues"
+  },
+  "homepage": "https://github.com/dinuranga/rest-api-crud-operations#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
